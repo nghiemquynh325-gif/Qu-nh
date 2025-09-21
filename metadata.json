@@ -1,0 +1,5 @@
+{
+  "name": "Resident Management System",
+  "description": "A web portal for administrators and group leaders to manage resident data, view statistics on a dashboard, and generate reports. It features functionalities for adding, editing, and viewing resident information with a clean and modern interface.",
+  "requestFramePermissions": []
+}
